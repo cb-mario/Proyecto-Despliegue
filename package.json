@@ -1,0 +1,18 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "API REST de eventos, entradas y recintos (Practica 1 Despliegue)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.4"
+  }
+}
